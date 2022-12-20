@@ -13,12 +13,12 @@ body{
     box-shadow: 0 0 10px 0 #5c5c5c;
 }
 #header{
-    background: linear-gradient(90deg,#AA1803,#BD613C);
+    background: linear-gradient(90deg,#000147,#15008a);
     margin: 2rem 1rem;
     height: 10rem;
 }
 #nav{
-    background: linear-gradient(90deg,#E34234,#E34234);
+    background: linear-gradient(90deg,#3445e3,#1d1c5c);
     margin: 2rem 1rem;
     height: 3rem;
 }
@@ -29,13 +29,13 @@ body{
     align-items: center;
 }
 #aside{
-    background: linear-gradient(90deg,#ff8640,#ff960c);
+    background: linear-gradient(90deg,#181a80,#001457);
     margin: 1rem;
     height: 30rem;
     width: 15%;
 }
 #section1{
-    background: linear-gradient(90deg,#ff9900,#ffae00);
+    background: linear-gradient(45deg,#0e008d,#20003a);
     height: 30rem;
     width: 85%;
 }
