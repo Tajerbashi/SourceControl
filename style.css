@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(90deg,#21B6A8,#A3EBB1);
+}
+#header,
+#nav,
+#aside,
+#section1,
+#footer{
+    border-radius: 1rem;
+    text-align: center;
+    color: #ffffff;
+    padding: 1rem 0.5rem;
+    box-shadow: 0 0 10px 0 #5c5c5c;
+}
+#header{
+    background: linear-gradient(90deg,#0077ff,#00b2be);
+    margin: 2rem 1rem;
+    height: 10rem;
+}
+#nav{
+    background: linear-gradient(90deg,#965000,#889200);
+    margin: 2rem 1rem;
+    height: 3rem;
+}
+#section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#aside{
+    background: linear-gradient(90deg,#00421e,#296600);
+    margin: 1rem;
+    height: 30rem;
+    width: 15%;
+}
+#section1{
+    background: linear-gradient(90deg,#18A558,#00300a);
+    height: 30rem;
+    width: 85%;
+}
+#footer{
+    background: linear-gradient(90deg,#18A558,#116530);
+    margin: 2rem 1rem;
+    height: 10rem;
+
+}
