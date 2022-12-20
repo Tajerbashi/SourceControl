@@ -1,0 +1,16 @@
+<div>
+    <h1>Lesson One</h1>
+    <p>git init</p>
+    <p>git status</p>
+    <p>git add (selector)</p>
+    <p>git add . : add all files</p>
+    <p>git rm --cached -r (selector) : back to unCommit status</p>
+    <p>git rm --cached -r filename : filename is insert back to unCommit status</p>
+    <p>git rm --cached -r . : back to unCommit status all file from commit status</p>
+    <p>
+        if your repository in process and out of your access : Another git process seems to be running in this repository
+        you must write this code --> rm -f .git/index.lock      || If there is no index.lock file there, check for HEAD.lock· Removing it solved the problem for me.
+    </p>
+    <p>git rm used for remove file from git staging step but after staging step git rm is not used for remove</p>
+
+</div>
