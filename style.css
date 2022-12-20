@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(90deg,#21B6A8,#A3EBB1);
+    background: linear-gradient(90deg,#F1BAA1,#F1BAA1);
 }
 #header,
 #nav,
@@ -13,12 +13,12 @@ body{
     box-shadow: 0 0 10px 0 #5c5c5c;
 }
 #header{
-    background: linear-gradient(90deg,#0077ff,#00b2be);
+    background: linear-gradient(90deg,#AA1803,#BD613C);
     margin: 2rem 1rem;
     height: 10rem;
 }
 #nav{
-    background: linear-gradient(90deg,#965000,#889200);
+    background: linear-gradient(90deg,#E34234,#E34234);
     margin: 2rem 1rem;
     height: 3rem;
 }
@@ -29,18 +29,18 @@ body{
     align-items: center;
 }
 #aside{
-    background: linear-gradient(90deg,#00421e,#296600);
+    background: linear-gradient(90deg,#ff8640,#ff960c);
     margin: 1rem;
     height: 30rem;
     width: 15%;
 }
 #section1{
-    background: linear-gradient(90deg,#18A558,#00300a);
+    background: linear-gradient(90deg,#ff9900,#ffae00);
     height: 30rem;
     width: 85%;
 }
 #footer{
-    background: linear-gradient(90deg,#18A558,#116530);
+    background: linear-gradient(90deg,#000149,rgb(46, 0, 59));
     margin: 2rem 1rem;
     height: 10rem;
 
