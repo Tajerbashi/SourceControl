@@ -1,1 +1,1 @@
-console.log("This is a log from main js");
+var i="This is a code after change and modify";
